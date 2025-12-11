@@ -1,3 +1,3 @@
+DB_HOST = "193.168.0.1"
 def configurar_banco():
-  # TODOS: Implenetar a logica de conexao
-  return "Conectado ao IP 192.168.0.01 com senha admin"
+ return f"Conectado ao {DB_HOST}"
